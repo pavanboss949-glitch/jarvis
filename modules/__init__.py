@@ -7,7 +7,8 @@ import requests
 
 import config
 import modules
-from src import *
+from modules import src
+#from src import *
 from templates.quick_replies import add_quick_reply
 from templates.text import TextTemplate
 
