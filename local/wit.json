@@ -12,5 +12,9 @@
 	"test": {
 		"intent": "xkcd",
 		"entities": []
-	}
+	},
+	"flip a coin": {
+        "intent": "coin",
+        "entities": []
+    }
 }

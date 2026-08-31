@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Reykjavik, Iceland",
+    "description": "Known for dramatic volcanic landscapes, natural geothermal hot springs, and stunning displays of the Northern Lights."
+  },
+  {
+    "name": "Banff National Park, Canada",
+    "description": "Famous for its vibrant turquoise glacial lakes, towering Rocky Mountain peaks, and abundant wildlife."
+  },
+  {
+    "name": "Cape Town, South Africa",
+    "description": "Renowned for its dramatic coastline, iconic Table Mountain, and nearby historic vineyards."
+  },
+  {
+    "name": "Venice, Italy",
+    "description": "A unique city built on over 100 small islands in a lagoon, famous for its winding canals, gondolas, and Gothic architecture."
+  },
+  {
+    "name": "Petra, Jordan",
+    "description": "An ancient archaeological city carved directly into vibrant pink sandstone cliffs, famous for its Treasury building."
+  },
+  {
+    "name": "Serengeti National Park, Tanzania",
+    "description": "Famous for vast golden savannah plains and the annual Great Migration of millions of wildebeests and zebras."
+  },
+  {
+    "name": "Dubrovnik, Croatia",
+    "description": "Known for its massive 16th-century stone walls encircling a charming, red-roofed Old Town along the Adriatic Sea."
+  },
+  {
+    "name": "Siem Reap, Cambodia",
+    "description": "Gateway to the world's largest religious monument, Angkor Wat, featuring ancient stone temples intertwined with tree roots."
+  },
+  {
+    "name": "Fiordland National Park, New Zealand",
+    "description": "Famous for deep glacier-carved fjords, towering waterfalls, and lush rainforests, including the famous Milford Sound."
+  },
+  {
+    "name": "Rio de Janeiro, Brazil",
+    "description": "Famous for its bustling Copacabana beach, dramatic coastal mountains, and the iconic Christ the Redeemer statue."
+  }
+]
